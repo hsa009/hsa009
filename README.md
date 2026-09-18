@@ -1,4 +1,4 @@
-# Hey! 👋
+#  👋
 
 I'm a student who loves turning creative ideas into real-world projects.
 
